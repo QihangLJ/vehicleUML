@@ -14,4 +14,4 @@
 | **Objectes** | Tots els objectes estan correctament definits (estat i comportament) i aplica l’encapsulació | No tots els objectes estan correctament definits (estat i comportament) o no aplica l’encapsulació  | Falten objectes per definir. |
 | **Relacions** | Ha definit correctament totes les relacions | Ha definit correctament com a mínim el 50% de les relacions | No ha indicat relacions ni multiplicitats |
 | **Herència** | Implementa correctament l’herència  | No implementa al 100% l’herència |  No implementa l’herència  |
-| **Total**  |   |
+| **Total**  |  4 |
