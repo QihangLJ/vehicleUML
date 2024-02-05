@@ -34,7 +34,8 @@
         public bool isBig()
         {
             const int LimitYear = 15;
-            return this.Year>LimitYear;
+            int todayYear = Convert.ToInt32(DateTime.Now.Year.ToString());
+            return todayYear-this.Year>LimitYear;
         }
         
     }
